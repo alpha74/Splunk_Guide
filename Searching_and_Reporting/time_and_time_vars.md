@@ -13,6 +13,8 @@
   - Current system time
 
 
+-----
+
 #### Time Variables
 
 - Useful when evaluating time and specifying time in SPL.
@@ -26,3 +28,10 @@
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/31771552/129445887-22a8f9a5-8558-4eea-95c0-d8955199cb6a.png">
 
 
+
+-----
+
+### Converting time using `strftime`
+
+- Used to convert time into any format during search on `_time` field.
+- Eg: `eval New_Time = strftime(_time, "%I:%M, %p" )`
