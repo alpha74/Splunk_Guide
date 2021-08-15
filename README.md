@@ -24,6 +24,9 @@
 
 ### Search and Reporting App
 
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/31771552/129483125-3affcf65-ac86-45b7-9e25-0274d833b466.png">
+
+
 - Comes built-in in Splunk.
 - Primary way to saeach and analyze data in Splunk.
   - Index data
@@ -36,4 +39,5 @@
   - [Time and Time Variables](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/1_time_and_time_vars.md)
   - [Basic Searching](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/2_basic_searching.md)
   - [Fields and Fields Extraction](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/3_fields_and_extraction.md)
+  - [Creating Tables and Visualization using Pivots](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/4_creating_tables_ui.md)
 
