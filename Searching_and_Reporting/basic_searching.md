@@ -67,5 +67,23 @@
 -----
 
 
+#### Sample commands
+
+
+__Search query__ : `index=notif* "MemoryUtils"`
+
+- __Events__
+
+```
+[2021-08-15 14:22:30.963] [MemoryUtils stats] [INFO] c.w.u.MemoryUtils max = 8038m, free = 6036m
+[2021-08-15 14:22:30.905] [MemoryUtils stats] [INFO] c.w.u.MemoryUtils max = 8038m, free = 3182m
+[2021-08-15 14:22:30.679] [MemoryUtils stats] [INFO] c.w.u.MemoryUtils max = 8038m, free = 3722m
+```
+
+- __Table__
+
+  - `index=notif* "MemoryUtils" | table _time max free | sort -_time`
+
+<img width="1227" alt="image" src="https://user-images.githubusercontent.com/31771552/129472884-bbed66bb-3f0a-4de7-b95e-442e0faca5c8.png">
 
 
