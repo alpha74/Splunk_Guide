@@ -26,9 +26,11 @@
   - Index data
   - Build reports and visualizations.
   - Configure alerts
-  - Create dashbiards
+  - Create dashboards
 
-----
+- __Contents : Search and Reporting__
 
-[Time and Time Variables](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/time_and_time_vars.md)
+  - [Time and Time Variables](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/1_time_and_time_vars.md)
+  - [Basic Searching](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/2_basic_searching.md)
+  - [Fields and Fields Extraction](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/3_fields_and_extraction.md)
 
