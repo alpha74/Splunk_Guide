@@ -22,6 +22,9 @@
 - The scope of SPL includes data searching, filtering, modification, manipulation, insertion and deletion.
 
 
+-----
+
+
 ### Search and Reporting App
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/31771552/129483125-3affcf65-ac86-45b7-9e25-0274d833b466.png">
