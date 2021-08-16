@@ -31,7 +31,7 @@
 
 
 - Comes built-in in Splunk.
-- Primary way to saeach and analyze data in Splunk.
+- Primary way to search and analyze data in Splunk.
   - Index data
   - Build reports and visualizations.
   - Configure alerts
