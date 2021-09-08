@@ -1,10 +1,8 @@
+![Splunk Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQggm2H1POGhQmJZSyLUhfKb7mAP2Yj578Q&usqp=CAU)
+
 # Splunk Guide
 
 ### Guide for using Splunk for Searching and Reporting
-
-
-![Splunk Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQggm2H1POGhQmJZSyLUhfKb7mAP2Yj578Q&usqp=CAU)
-
 
 
 ## Splunk Search
