@@ -35,7 +35,11 @@
   - Configure alerts
   - Create dashboards
 
-- __Contents : Search and Reporting__
+
+-----
+
+
+### Contents : Search and Reporting
 
   - [Time and Time Variables](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/1_time_and_time_vars.md)
   - [Basic Searching](https://github.com/alpha74/Splunk_Guide/blob/main/Searching_and_Reporting/2_basic_searching.md)
